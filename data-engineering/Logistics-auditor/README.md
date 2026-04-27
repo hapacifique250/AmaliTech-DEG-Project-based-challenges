@@ -7,7 +7,7 @@ Veridi Logistics has experienced a surge in negative customer reviews, suspected
 
 ## B. Project Links
 - **Notebook:** https://colab.research.google.com/drive/1YcVRERlD8b787n0HxIcrNgY44SLJPOsm?usp=sharing  
-- **Dashboard:** https://public.tableau.com/views/LastMileLogisticsAuditor/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Dashboard:** https://app.powerbi.com/links/K9NBf3_fif?ctid=c4880333-4814-4622-b63c-2b67c199878c&pbi_source=linkShare
 - **Presentation:** https://docs.google.com/presentation/d/1Ue_CBC1ug_sCGTtUfK2D0GpD8e4MCjk9/edit?usp=sharing&ouid=105302457115700410673&rtpof=true&sd=true
 
 ---
