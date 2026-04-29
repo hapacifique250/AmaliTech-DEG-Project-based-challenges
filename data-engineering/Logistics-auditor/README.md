@@ -36,8 +36,7 @@ Veridi Logistics has experienced a surge in negative customer reviews, suspected
 ## D. Pre-Submission Checklist
 - [x] Repo is public (tested in Incognito).  
 - [x] Notebook uploaded (`.ipynb`).  
-- [x] Notebook exported (`.html` or `.pdf`).  
+- [x] Notebook exported (`.html`).  
 - [x] Raw datasets excluded from repo.  
 - [x] Dashboard link is public.   
-- [x] README updated with Executive Summary, Project Links, Technical Notes.  
-- [x] Candidate’s Choice feature included and explained.  
+- [x] README updated with Executive Summary, Project Links, Technical Notes.   
